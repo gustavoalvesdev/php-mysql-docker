@@ -11,9 +11,9 @@ Antes de começar, você precisará ter o seguinte instalando em sua máquina:
 
 ### Descrição dos Arquivos
 
-`docker-compose.yml`: Arquivo de configuração do Docker Compose.
-`Dockerfile`: Arquivo para construir a imagem do PHP com as extensões necessárias.
-`src`: Diretório que contém o código fonte da aplicação PHP.
+`docker-compose.yml`: Arquivo de configuração do Docker Compose.<br>
+`Dockerfile`: Arquivo para construir a imagem do PHP com as extensões necessárias.<br>
+`src`: Diretório que contém o código fonte da aplicação PHP.<br>
 
 ## Instalando o Projeto
 
@@ -62,4 +62,4 @@ docker-compose down
 Sinta-se à vontade para contribuir com melhorias ou correções. Faça um fork deste repositório e envie um pull request
 
 ### Licença
-Este Projeto é licenciado sob a [MIT License](LICENSE.md).
+Este Projeto é licenciado sob a [MIT License](LICENSE).
